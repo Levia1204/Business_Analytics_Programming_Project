@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+wordcloud
+gensim
+ipython
+jupyter
